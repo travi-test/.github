@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: .github
+  description: organization level configuration repository
+  homepage: 'https://github.com/travi-test/.github#readme'
+  private: false
